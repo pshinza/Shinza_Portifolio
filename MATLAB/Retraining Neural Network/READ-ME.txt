@@ -1,0 +1,8 @@
+This code was part of a project that I had to do for my class of introduction to computational inteligence.
+First I wanted to train my own CNN to solve the problem of classifying images of cats, dogs and monkeys.
+But the ideia of a deep learning project on the course was new and we had little time to implement anything.
+So, I choose to retrain the googlenet using the neural networks toolbox of MATLAB by transfer learning.
+The ideia is to retrain only the last layers of the network.
+As result, the accuracy was of 100% although the time of training was very small, less than 5 minutes.
+
+Sadly, I didn't have time to translate the documentation of my work to english, but they are available in portuguese in my git.
